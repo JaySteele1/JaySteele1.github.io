@@ -1,5 +1,5 @@
 /************************** jQuery ***************** jQuery **************************/
-/*
+
 $(document).ready(function() {
 
     // Start of the click handlers for each picture. All in order 1-17 including all the cat Id's
@@ -55,10 +55,10 @@ $(document).ready(function() {
         alert("I thought it fitting to end this Gavin page with this pic from right after Gav's first birthday party. Had a blast, although he found out the hard way that candles are hot. I dont know what i would do without this kid in my life. Its been a real honor being his father. He did try to grab the candle and burnt his finger.")
     });
 });
-*/
+
 
 /************************** VANILLA ***************** JS **************************/
-
+/*
 document.getElementById("pic1").addEventListener("click", function() {
     alert("Breakfast at Denny's one of Gavs favorite places to eat. Was feeling a little sick that day but was in good humor anyway. Kept his sunglasses on like a Hollywood night owl waking up at the crack of noon, wondering what t-shirt to where, playing with crayons. At least he didnt have his tablet in hand.");
 });
@@ -110,3 +110,4 @@ document.getElementById("cat3").addEventListener("click", function() {
 document.getElementById("cat4").addEventListener("click", function() {
     alert("I thought it fitting to end this Gavin page with this pic from right after Gav's first birthday party. Had a blast, although he found out the hard way that candles are hot. I dont know what i would do without this kid in my life. Its been a real honor being his father. He did try to grab the candle and burnt his finger.");
 });
+*/
